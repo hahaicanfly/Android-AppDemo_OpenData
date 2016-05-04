@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OpenData_1</string>
+    <!--<string name="libDist_URL">http://data.ntpc.gov.tw/od/data/api/6DCFF24A-838C-40FB-A9DF-F1160AFAFE84?$format=json</string>-->
+    <!--<string name="libDist_URL">http://data.ntpc.gov.tw/od/data/api/A886239B-D7C1-4309-870F-E0F64D088025?$format=json</string>-->
+    <string name="libDist_URL">http://data.ntpc.gov.tw/od/data/api/64025643-34BF-489D-AC5C-13B90DDD7629?$format=json</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
